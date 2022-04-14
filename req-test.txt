@@ -1,0 +1,7 @@
+coverage
+nbformat
+nbconvert
+nbstripout
+unittest-xml-reporting
+ipykernel
+pre-commit
